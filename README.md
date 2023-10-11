@@ -1,5 +1,7 @@
 ![GitHub Cards Preview](https://github.com/romagornostay/TrackDowloadProgress.swiftpm/blob/main/coverDowload.png)
 
+#### Simple one-page application that demonstrates works URLSessionDownloadDelegate and how you can get data about file download, a picture for example. 
+
 ## [URLSessionDownloadDelegate](https://developer.apple.com/documentation/foundation/URLSessionDownloadDelegate) 
 
 ```swift
@@ -26,5 +28,6 @@ extension Int64 {
         formatter.allowedUnits = [.useKB, .useMB]
         return formatter.string(fromByteCount: self)
     }
-}```
-Testing how to work with URLSession Delegate
+}
+```
+
