@@ -2,6 +2,8 @@
 
 ### Simple one-page application that demonstrates works URLSessionDownloadDelegate and how you can get data about file download, a picture for example. 
 
+![videoToGif](https://github.com/romagornostay/TrackDowloadProgress.swiftpm/assets/60058363/6e037df6-9de2-4e50-a822-42b2974e0d41)
+
 ## [URLSessionDownloadDelegate](https://developer.apple.com/documentation/foundation/URLSessionDownloadDelegate) 
 
 This method periodically informs the delegate about the download’s progress
